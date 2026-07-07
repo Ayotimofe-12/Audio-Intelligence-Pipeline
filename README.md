@@ -1,4 +1,4 @@
-# 🎙️ Audio Intelligence System
+#  Audio Intelligence System
 
 > **Transforming long audio recordings into structured, actionable insights through speech recognition, speaker identification, topic segmentation, and sentiment analysis.**
 
@@ -215,5 +215,5 @@ Beyond the individual AI models, the project emphasizes thoughtful system design
 
 If you found this project interesting or have suggestions for improving the pipeline, I'd love to hear your feedback. Contributions, discussions, and ideas are always welcome.
 
----
+
 
