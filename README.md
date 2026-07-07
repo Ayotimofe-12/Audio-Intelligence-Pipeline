@@ -141,9 +141,6 @@ The final output is saved as a machine-readable JSON file that consolidates the 
 
 The system produces a consolidated JSON file that transforms raw audio into structured intelligence. Rather than returning only a transcript, the output combines metadata, speaker information, topic segmentation, topic boundaries, and sentiment analysis into a single machine-readable format.
 
-<p align="center">
-  <img src="images/final_output.png" alt="Sample Audio Intelligence Output" width="900"/>
-</p>
 
 A sample output is also available in:
 
@@ -209,7 +206,6 @@ Future work could further strengthen the system by:
 
 ---
 
----
 
 ##  Conclusion
 
